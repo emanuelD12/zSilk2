@@ -1,2 +1,3 @@
-# zSilk2
-Um plugin de quebrar blocos inquebraveis para bukkit / spigot
+Plugin de quebrar blocos impossiveis para bukkit / spigot 1.8+!
+
+v1.1
