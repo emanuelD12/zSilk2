@@ -1,6 +1,7 @@
 main: com.zsilk2.Main
 version: 1.2
 name: zSilk2
+author: emanuelVINI01
 commands:
   silk2:
     aliases: [givesilk2]
