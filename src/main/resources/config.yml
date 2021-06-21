@@ -1,0 +1,12 @@
+loredasilk2:
+  - "&eEssa picareta tem poder de quebrar bedrocks (blocos configuraveis tambem), se estiver na host pode usar acentos!"
+nomedoitem: "&eSilk II"
+itemsilk2: "DIAMOND_PICKAXE"
+permissao: "silk2.admin"
+noperm: "&cVocê não tem permissão para fazer isso!"
+leveldosilk: 2
+breaktimedelay: 170
+blocos:
+  - "BEDROCK"
+  - "BARRIER"
+  - "ENDER_PORTAL_FRAME"
